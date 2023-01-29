@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toggle/static/js/main.ad747ad2.js",
+    "index.html": "/toggle/index.html",
+    "main.ad747ad2.js.map": "/toggle/static/js/main.ad747ad2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ad747ad2.js"
+  ]
+}
